@@ -1,0 +1,17 @@
+.container{
+    width: 900px;
+    height: auto;
+    padding:auto;
+    margin:auto;
+}
+.logo{
+    text-align:center;  
+}
+.logo img{
+    width: 75px;
+    height: 75px;
+    border-radius: 15px;
+}
+.logo p{
+    font-size: large;
+}
